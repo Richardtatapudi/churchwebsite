@@ -1,0 +1,271 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image{
+    height: 80px;
+    width: 100px;
+}
+#nav-name1{
+    color: #323f4b;
+    font-family: "roboto";
+}
+#nav-name2{
+    color: #323f4b;
+    font-family: "roboto";
+}
+#nav-name3{
+    color: #323f4b;
+    font-family: "roboto";
+}
+#nav-name4{
+    color: #323f4b;
+    font-family: "roboto";
+}
+.banner-bg-contanier{
+    background-image: url("https://ksgn.com/images/stories/cross_easter-2022_canva.png");
+    height: 100vh;
+    background-size: cover;
+}
+.banner-heading{
+    color:rgb(11, 11, 11);
+    font-size: 45px;
+    font-weight: BOLD;
+    font-family: "roboto";
+}
+.banner-paragraph{
+    color:rgb(8, 8, 8);
+    font-size: 25px;
+    font-weight:bold;
+    font-family: "roboto";
+}
+.section1 {
+    background-color: rgb(243, 243, 243);
+  }
+  .section-img1 {
+    height: 100%;
+    width: 100%;
+   border-radius: 50px;
+  }
+  .section-heading1 {
+    color: #2e82c3;
+    font-family: "Roboto";
+    font-size: 28px;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+  .section-description1 {
+    color: #080808;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+  }
+
+.wcu-bg-container{
+    background-color: aliceblue;
+   
+}
+.wcu-heading{
+    color:#183b56;
+    font-family: "roboto";
+    font-size: 35px;
+    margin-top: 75px;
+}
+.wcu-paragraph{
+    color: #5a7184;
+    font-family: "roboto";
+    font-size: 18px;
+}
+.wcu-carditeam{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 16px;
+    border-color: #e5eaf4;
+}
+.wcu-image{
+    height: 100%;
+    width: 100%;
+    border-radius: 10PX;
+}
+.wcu-card-title{
+    font-family: "roboto";
+    font-size: 22px;
+    font-weight: 500;
+    color: #322f4b;
+}
+.wcu-card-paragraph{
+    font-family: "roboto";
+    font-size: 16px;
+    color: #7b8794;
+}
+.offers{
+    color: #323f4b;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.explore-menu-section{
+    background-color: white;
+
+}
+.explore-section-heading{
+    font-family: "roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+    margin-top: 78px;
+}
+
+.menu-iteam-image{
+    border-radius: 18px;
+    height: 290px;
+    width: 304px;
+
+}
+.menu-card-title{
+    color: #323f4b;
+    font-family: "roboto";
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 24px;
+  
+}
+.menu-item-link{
+    color: #d0b200;
+    font-family: "roboto";
+    font-weight: 500;
+    font-size: 14px;
+
+}
+.menu-card-item{
+    border-radius: 26px;
+    transform: scale(1,1);
+}
+
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+  }
+  .healthy-food-section-img {
+    width: 270px;
+    margin-top: 70px;
+  }
+  .healthy-food-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .custom-button {
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+
+ 
+.delivery-and-payment-section {
+  background-color: white;
+}
+.delivery-and-payment-section-img {
+  width: 270px;
+}
+.delivery-and-payment-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.delivery-and-payment-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.payment-card-img {
+  width: 50px;
+  height: 50px;
+  margin-right: 28px;
+}
+
+
+
+
+  .footer-section-image {
+    height: 50px;
+    width: 90px;
+    border-radius: 50px;
+}
+.footer-section-textt{
+    color: #080808;
+    font-family: "roboto";
+    font-size: 12px;
+
+}
+.footer-section-sub-heading{
+    color:black;
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight:bold;
+    
+    
+}
+.footer-section-copyright-container{
+    text-align: center;
+    color: #0a0a0a;
+    background-color: #8b9094;
+    padding: 10px;
+
+}
+.icon{
+    color: #000000;
+    font-size: 18px;
+
+
+}
+
+
+
+
+.follow1-us-section {
+    background-color: rgb(249, 249, 249);
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.follow1-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow1-us-icon-container {
+    background-color: #ffffff;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 30px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon1 {
+    color: #d4d729;
+    font-size: 45px;
+}
